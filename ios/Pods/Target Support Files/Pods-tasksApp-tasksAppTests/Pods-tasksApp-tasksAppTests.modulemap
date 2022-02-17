@@ -1,0 +1,6 @@
+module Pods_tasksApp_tasksAppTests {
+  umbrella header "Pods-tasksApp-tasksAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
